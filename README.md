@@ -1,1 +1,3 @@
-C++ 연습
+C++ for begginner
+
+example 200
