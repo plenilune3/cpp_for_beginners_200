@@ -18,7 +18,7 @@ int main()
 		cout << "Status : normal" << endl;
 	else if (number == abnormal)
 		cout << "Status : abnormal" << endl;
-	else if (number == 101)
+	else if (number == 100)
 		cout << "Status : disconnect" << endl;
 	else
 		cout << "Status : close" << endl;
