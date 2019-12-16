@@ -1,11 +1,11 @@
-#include <iostrea>
+#include <iostream>
 
 using namespace std;
 
 int main()
 {
-	int data1[3] = { 0, 1, 2, }
-	int data2[2][2] = { { 0, } };
+	int data1[3] = { 0, 1, 2, };
+	int data2[2][2] = { { 0, }, };
 	int data3[2][2];
 
 	cout << "== data1 ==" << endl;
@@ -24,7 +24,7 @@ int main()
 		for (int j = 0; j < 2; j++)
 		{
 			cout << "data3[" << i << "][" << j << "] = "
-				<< data2[i][j] << endl;
+				<< data3[i][j] << endl;
 		}
 	}
 
